@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # education
 - I'm a student of SPBU, majoring in programming techologies.
 
